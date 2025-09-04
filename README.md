@@ -1,4 +1,4 @@
-# Go Food - Food Ordering Website
+# Foodel  - Food Ordering Website
 
 A simple and efficient food ordering website where users can browse menus, add items to their cart, and place orders online.
 
